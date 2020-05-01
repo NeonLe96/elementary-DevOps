@@ -1,4 +1,4 @@
-# elementary-DevOps
+# DevOps-esce1
 
 -Set up 3 t2.micro AWS EC2 instances with Terraform
 
